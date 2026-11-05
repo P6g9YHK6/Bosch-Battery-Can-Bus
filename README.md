@@ -1,5 +1,4 @@
 # Bosch Battery CAN Bus
-
 This repository explores the interaction with Bosch e-bike batteries via the CAN bus and gathers relevant online resources for research and experimentation.
 
 ## Overview
