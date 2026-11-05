@@ -1,4 +1,5 @@
 # Bosch Battery CAN Bus
+
 This repository explores the interaction with Bosch e-bike batteries via the CAN bus and gathers relevant online resources for research and experimentation.
 
 ## Overview
@@ -26,6 +27,7 @@ For more detailed and in-depth documentation regarding Bosch e-bike batteries an
 
 - [Apollo Lab: Bosch Battery Communication](https://apollo.open-resource.org/lab:wip:bosch)
 - [Handshake Protocol Research](https://github.com/gregyedlik/handshake)
+- [Bosch PowerPack BES2 CAN Diagnostics](https://github.com/br-g/bosch-powerpack-diag)
 - [Bosch E-bike Diagnostic Tool IBD Software](https://mhhauto.com/Thread-Bosch-E-bike-Diagnostic-Tool-IBD-Software?page=2)
 - [Cyclurba Bosch Diagnostic Software Discussion](https://cyclurba.fr/forum/702597/logiciel-diagnostic-bosch-ibd-dongle.html)
 
